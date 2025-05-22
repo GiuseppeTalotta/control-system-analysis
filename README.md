@@ -23,11 +23,7 @@ This project consists of analyzing and modeling a two-loop RLC electric circuit 
 - `bode_plot.m`: plots the Bode diagram
 - `step_impulse_response.m`: plots step and impulse responses
 
-## 📸 Preview
 
-Add your screenshots of plots here (e.g., step response, Bode plot...)
-
----
 
 **Author:** Giuseppe Talotta  
 **Course:** Fondamenti di Automatica  
